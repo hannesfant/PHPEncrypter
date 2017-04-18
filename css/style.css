@@ -1,0 +1,30 @@
+.vcenter {
+  position: absolute;
+  width: 20%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.form {
+  font-size: 25px;
+}
+
+.submitBtn {
+  margin-top: 5%;
+}
+
+.radioLabel {
+  font-size: 25px !IMPORTANT;
+}
+
+#optionsRadios1 {
+  margin-top: 16px;
+}
+
+#optionsRadios2 {
+  margin-top: 16px;
+}
